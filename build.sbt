@@ -1,7 +1,7 @@
 course := "parprog1"
-assignment := "scalashop"
+assignment := "reductions"
 
-scalaVersion := "3.3.0"
+scalaVersion := "3.1.0"
 scalacOptions ++= Seq("-language:implicitConversions", "-deprecation")
 libraryDependencies ++= Seq(
   ("com.storm-enroute" %% "scalameter-core" % "0.21").cross(CrossVersion.for3Use2_13),
