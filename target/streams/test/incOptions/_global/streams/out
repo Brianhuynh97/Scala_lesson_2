@@ -1,0 +1,9 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /home/coder/project/target/scala-3.3.0/test-classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BlurSuite.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	VerticalBlurSuite.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BlurSuite.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	VerticalBlurSuite.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /home/coder/project/target/scala-3.3.0/test-classes.bak[0m

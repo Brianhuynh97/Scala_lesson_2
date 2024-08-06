@@ -1,0 +1,1911 @@
+[0m2024.08.06 16:52:00 INFO  Started: Metals version 0.10.8 in workspace '/home/coder/project' for client code-server 1.57.1.[0m
+[0m2024.08.06 16:52:04 INFO  time: initialize in 3.5s[0m
+[0m2024.08.06 16:52:04 WARN  Build server is not auto-connectable.[0m
+[0m2024.08.06 16:52:05 WARN  no build target for: /home/coder/project/assignment.sbt[0m
+[0m2024.08.06 16:52:05 WARN  no build target for: /home/coder/project/build.sbt[0m
+[0m2024.08.06 16:52:15 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2024.08.06 16:52:19 INFO  time: code lens generation in 11s[0m
+[0m2024.08.06 16:52:34 WARN  no build target for: /home/coder/project/project/StudentTasks.scala[0m
+[0m2024.08.06 16:52:38 INFO  time: code lens generation in 1.94s[0m
+[0m2024.08.06 16:52:41 WARN  no build target for: /home/coder/project/project/CourseraStudent.scala[0m
+[0m2024.08.06 16:53:46 WARN  no build target for: /home/coder/project/project/buildSettings.sbt[0m
+Aug 06, 2024 4:54:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22
+[0m2024.08.06 16:54:43 WARN  no build target for: /home/coder/project/assignment.sbt[0m
+Aug 06, 2024 4:54:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 32
+[0m2024.08.06 16:54:52 WARN  no build target for: /home/coder/project/project/CourseraStudent.scala[0m
+[0m2024.08.06 16:56:01 WARN  no build target for: /home/coder/project/assignment.sbt[0m
+Aug 06, 2024 4:57:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 48
+[0m2024.08.06 16:57:13 WARN  no build target for: /home/coder/project/project/CourseraStudent.scala[0m
+[0m2024.08.06 16:57:15 WARN  no build target for: /home/coder/project/project/MOOCSettings.scala[0m
+[0m2024.08.06 16:57:19 WARN  no build target for: /home/coder/project/project/plugins.sbt[0m
+Aug 06, 2024 4:57:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 69
+[0m2024.08.06 16:57:21 WARN  no build target for: /home/coder/project/project/StudentTasks.scala[0m
+[0m2024.08.06 17:02:00 WARN  no build target for: /home/coder/project/project/buildSettings.sbt[0m
+Aug 06, 2024 5:02:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 80
+[0m2024.08.06 17:02:03 WARN  no build target for: /home/coder/project/project/CourseraStudent.scala[0m
+[0m2024.08.06 17:02:17 WARN  no build target for: /home/coder/project/assignment.sbt[0m
+Aug 06, 2024 5:02:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 93
+[0m2024.08.06 17:02:26 WARN  no build target for: /home/coder/project/project/StudentTasks.scala[0m
+[0m2024.08.06 17:05:24 WARN  no build target for: /home/coder/project/build.sbt[0m
+Aug 06, 2024 5:05:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 119
+[0m2024.08.06 17:05:40 WARN  no build target for: /home/coder/project/assignment.sbt[0m
+[0m2024.08.06 17:07:56 INFO  shutting down Metals[0m
+[0m2024.08.06 17:07:56 ERROR Unexpected error initializing server
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+[0m
+[0m2024.08.06 17:08:30 INFO  Started: Metals version 0.10.8 in workspace '/home/coder/project' for client code-server 1.57.1.[0m
+[0m2024.08.06 17:08:34 INFO  time: initialize in 3.49s[0m
+[0m2024.08.06 17:08:34 WARN  Build server is not auto-connectable.[0m
+[0m2024.08.06 17:08:35 WARN  no build target for: /home/coder/project/assignment.sbt[0m
+[0m2024.08.06 17:08:36 INFO  skipping build import with status 'Requested'[0m
+[0m2024.08.06 17:08:42 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2024.08.06 17:08:46 INFO  time: code lens generation in 8.84s[0m
+[0m2024.08.06 17:08:46 INFO  time: code lens generation in 8.98s[0m
+Aug 06, 2024 5:08:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+[0m2024.08.06 17:08:55 WARN  no build target for: /home/coder/project/scalashop/assignment.sbt[0m
+[0m2024.08.06 17:09:22 WARN  no build target for: /home/coder/project/project/StudentTasks.scala[0m
+[0m2024.08.06 17:09:25 INFO  time: code lens generation in 1.97s[0m
+[0m2024.08.06 17:09:49 WARN  no build target for: /home/coder/project/scalashop/src/test/scala/scalashop/BlurSuite.scala[0m
+Aug 06, 2024 5:09:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21
+[0m2024.08.06 17:11:46 WARN  no build target for: /home/coder/project/project/buildSettings.sbt[0m
+Aug 06, 2024 5:21:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 33
+[0m2024.08.06 17:21:58 WARN  no build target for: /home/coder/project/src/test/scala/scalashop/BlurSuite.scala[0m
+Aug 06, 2024 5:22:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 38
+[0m2024.08.06 17:22:01 WARN  no build target for: /home/coder/project/src/main/scala/scalashop/VerticalBoxBlur.scala[0m
+[0m2024.08.06 17:22:03 WARN  no build target for: /home/coder/project/src/main/scala/scalashop/ScalaShop.scala[0m
+[0m2024.08.06 17:22:04 WARN  no build target for: /home/coder/project/src/main/scala/scalashop/PhotoCanvas.scala[0m
+[0m2024.08.06 17:22:05 WARN  no build target for: /home/coder/project/src/main/scala/scalashop/Interfaces.scala[0m
+Aug 06, 2024 5:22:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 58
+[0m2024.08.06 17:22:06 WARN  no build target for: /home/coder/project/src/main/scala/scalashop/HorizontalBoxBlur.scala[0m
+[0m2024.08.06 17:22:06 INFO  time: code lens generation in 1.69s[0m
+[0m2024.08.06 17:22:06 WARN  no build target for: /home/coder/project/src/main/scala/scalashop/common.scala[0m
+[0m2024.08.06 17:23:15 WARN  no build target for: /home/coder/project/src/main/scala/scalashop/HorizontalBoxBlur.scala[0m
+Aug 06, 2024 5:23:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 74
+[0m2024.08.06 17:23:35 WARN  no build target for: /home/coder/project/src/main/scala/scalashop/VerticalBoxBlur.scala[0m
+[0m2024.08.06 17:23:53 WARN  no build target for: /home/coder/project/src/test/scala/scalashop/BlurSuite.scala[0m
+Aug 06, 2024 5:23:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 86
+[0m2024.08.06 17:23:56 WARN  no build target for: /home/coder/project/src/main/scala/scalashop/common.scala[0m
+[0m2024.08.06 17:24:11 WARN  no build target for: /home/coder/project/src/main/scala/scalashop/HorizontalBoxBlur.scala[0m
+Aug 06, 2024 5:25:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 98
+[0m2024.08.06 17:25:03 WARN  no build target for: /home/coder/project/src/test/scala/scalashop/BlurSuite.scala[0m
+Exception in thread "pool-3-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+[0m2024.08.06 17:26:06 WARN  no build target for: /home/coder/project/src/test/scala/scalashop/BlurSuite.scala[0m
+Aug 06, 2024 5:26:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 121
+[0m2024.08.06 17:34:16 WARN  no build target for: /home/coder/project/assignment.sbt[0m
+Aug 06, 2024 5:34:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 132
+[0m2024.08.06 17:34:18 WARN  no build target for: /home/coder/project/build.sbt[0m
+[0m2024.08.06 17:37:22 WARN  no build target for: /home/coder/project/assignment.sbt[0m
+Aug 06, 2024 5:38:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 144
+[0m2024.08.06 17:38:06 WARN  no build target for: /home/coder/project/build.sbt[0m
+Aug 06, 2024 5:38:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 150
+[0m2024.08.06 17:38:32 WARN  no build target for: /home/coder/project/assignment.sbt[0m
+Aug 06, 2024 5:48:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 156
+[0m2024.08.06 17:49:04 WARN  no build target for: /home/coder/project/project/StudentTasks.scala[0m
+[0m2024.08.06 17:59:36 WARN  no build target for: /home/coder/project/project/plugins.sbt[0m
+Aug 06, 2024 5:59:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 177
+[0m2024.08.06 17:59:57 WARN  no build target for: /home/coder/project/project/buildSettings.sbt[0m
+Aug 06, 2024 6:00:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 182
+[0m2024.08.06 18:00:23 WARN  no build target for: /home/coder/project/scalashop/src/main/scala/scalashop/HorizontalBoxBlur.scala[0m
+[0m2024.08.06 18:00:54 WARN  no build target for: /home/coder/project/scalashop/src/main/scala/scalashop/HorizontalBoxBlur.scala[0m
+[0m2024.08.06 18:01:36 WARN  no build target for: /home/coder/project/scalashop/src/main/scala/scalashop/VerticalBoxBlur.scala[0m
+[0m2024.08.06 18:01:55 WARN  no build target for: /home/coder/project/scalashop/src/main/scala/scalashop/VerticalBoxBlur.scala[0m
+[0m2024.08.06 18:02:18 WARN  no build target for: /home/coder/project/scalashop/src/main/scala/scalashop/ScalaShop.scala[0m
+Aug 06, 2024 6:03:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 219
+Aug 06, 2024 6:04:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 88 is not a valid line number, allowed [0..59]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:133)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:77)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:76)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:62)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:61)
+	at scala.collection.immutable.List.collect(List.scala:323)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:61)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1554)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1553)
+	... 15 more
+
+Aug 06, 2024 6:04:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 88 is not a valid line number, allowed [0..59]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:133)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:77)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:76)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:62)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:61)
+	at scala.collection.immutable.List.collect(List.scala:323)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:61)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1554)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1553)
+	... 15 more
+
+[0m2024.08.06 18:05:00 WARN  no build target for: /home/coder/project/scalashop/src/main/scala/scalashop/HorizontalBoxBlur.scala[0m
+Aug 06, 2024 6:05:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 88 is not a valid line number, allowed [0..59]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:133)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:77)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:76)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:62)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:61)
+	at scala.collection.immutable.List.collect(List.scala:323)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:61)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1554)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1553)
+	... 15 more
+
+[0m2024.08.06 18:05:00 WARN  no build target for: /home/coder/project/scalashop/src/main/scala/scalashop/HorizontalBoxBlur.scala[0m
+Aug 06, 2024 6:05:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 67 is not a valid line number, allowed [0..59]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:133)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:77)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:76)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:62)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:61)
+	at scala.collection.immutable.List.collect(List.scala:323)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:61)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1554)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1553)
+	... 15 more
+
+[0m2024.08.06 18:05:02 WARN  no build target for: /home/coder/project/scalashop/src/main/scala/scalashop/HorizontalBoxBlur.scala[0m
+[0m2024.08.06 18:05:05 WARN  no build target for: /home/coder/project/scalashop/src/main/scala/scalashop/HorizontalBoxBlur.scala[0m
+Aug 06, 2024 6:05:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 70 is not a valid line number, allowed [0..59]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:133)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:77)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:76)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:62)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:61)
+	at scala.collection.immutable.List.collect(List.scala:323)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:61)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1554)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1553)
+	... 15 more
+
+Aug 06, 2024 6:05:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 70 is not a valid line number, allowed [0..59]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:133)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:77)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:76)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:62)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:61)
+	at scala.collection.immutable.List.collect(List.scala:323)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:61)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1554)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1553)
+	... 15 more
+
+Aug 06, 2024 6:05:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 64 is not a valid line number, allowed [0..59]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:133)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:77)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:76)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:62)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:61)
+	at scala.collection.immutable.List.collect(List.scala:323)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:61)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1554)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1553)
+	... 15 more
+
+[0m2024.08.06 18:06:05 WARN  no build target for: /home/coder/project/scalashop/src/main/scala/scalashop/HorizontalBoxBlur.scala[0m
+[0m2024.08.06 18:06:08 WARN  no build target for: /home/coder/project/scalashop/src/main/scala/scalashop/HorizontalBoxBlur.scala[0m
+[0m2024.08.06 18:06:09 WARN  no build target for: /home/coder/project/scalashop/src/main/scala/scalashop/HorizontalBoxBlur.scala[0m
+[0m2024.08.06 18:06:12 WARN  no build target for: /home/coder/project/scalashop/src/main/scala/scalashop/HorizontalBoxBlur.scala[0m
+[0m2024.08.06 18:06:27 WARN  no build target for: /home/coder/project/scalashop/src/main/scala/scalashop/HorizontalBoxBlur.scala[0m
+[0m2024.08.06 18:06:30 WARN  no build target for: /home/coder/project/scalashop/src/main/scala/scalashop/HorizontalBoxBlur.scala[0m
+[0m2024.08.06 18:06:31 WARN  no build target for: /home/coder/project/scalashop/src/main/scala/scalashop/HorizontalBoxBlur.scala[0m
+[0m2024.08.06 18:06:32 WARN  no build target for: /home/coder/project/scalashop/src/main/scala/scalashop/HorizontalBoxBlur.scala[0m
+[0m2024.08.06 18:06:50 WARN  no build target for: /home/coder/project/scalashop/src/main/scala/scalashop/HorizontalBoxBlur.scala[0m
+[0m2024.08.06 18:06:52 WARN  no build target for: /home/coder/project/scalashop/src/main/scala/scalashop/HorizontalBoxBlur.scala[0m
+[0m2024.08.06 18:06:53 WARN  no build target for: /home/coder/project/scalashop/src/main/scala/scalashop/HorizontalBoxBlur.scala[0m
+Aug 06, 2024 6:06:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 326
+[0m2024.08.06 18:07:11 WARN  no build target for: /home/coder/project/scalashop/src/main/scala/scalashop/VerticalBoxBlur.scala[0m
+[0m2024.08.06 18:07:13 WARN  no build target for: /home/coder/project/scalashop/src/main/scala/scalashop/VerticalBoxBlur.scala[0m
+[0m2024.08.06 18:07:14 WARN  no build target for: /home/coder/project/scalashop/src/main/scala/scalashop/VerticalBoxBlur.scala[0m
+Aug 06, 2024 6:07:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 352
+[0m2024.08.06 18:09:05 WARN  no build target for: /home/coder/project/scalashop/src/main/scala/scalashop/Interfaces.scala[0m
+Aug 06, 2024 6:09:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 367
+[0m2024.08.06 18:09:12 WARN  no build target for: /home/coder/project/scalashop/src/main/scala/scalashop/ScalaShop.scala[0m
+[0m2024.08.06 18:09:17 WARN  no build target for: /home/coder/project/scalashop/src/main/scala/scalashop/Interfaces.scala[0m
+[0m2024.08.06 18:09:18 WARN  no build target for: /home/coder/project/scalashop/src/main/scala/scalashop/common.scala[0m
+[0m2024.08.06 18:09:22 WARN  no build target for: /home/coder/project/scalashop/src/test/scala/scalashop/BlurSuite.scala[0m
+[0m2024.08.06 18:09:50 WARN  no build target for: /home/coder/project/scalashop/src/test/scala/scalashop/BlurSuite.scala[0m
+[0m2024.08.06 18:10:31 WARN  no build target for: /home/coder/project/scalashop/src/test/scala/scalashop/HorizontalBlurSuite.scala[0m
+[0m2024.08.06 18:10:56 WARN  no build target for: /home/coder/project/scalashop/src/test/scala/scalashop/HorizontalBlurSuite.scala[0m
+Exception in thread "pool-3-thread-2" dotty.tools.dotc.core.TypeError: Toplevel definition rgba is defined in
+  /home/coder/project/src/main/scala/scalashop/common.scala
+and also in
+  /home/coder/project/scalashop/src/main/scala/scalashop/common.scala
+One of these files should be removed from the classpath.
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.dropStale$1(SymDenotations.scala:2439)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.recur$1(SymDenotations.scala:2403)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.computeMembersNamed(SymDenotations.scala:2459)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.membersNamed(SymDenotations.scala:2012)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.findMember(SymDenotations.scala:2063)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:683)
+	at dotty.tools.dotc.core.Types$Type.goThis$1(Types.scala:807)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:700)
+	at dotty.tools.dotc.core.Types$Type.findMember(Types.scala:870)
+	at dotty.tools.dotc.core.Types$Type.memberBasedOnFlags(Types.scala:666)
+	at dotty.tools.dotc.core.Types$Type.member(Types.scala:650)
+	at dotty.tools.dotc.core.Types$Type.allMembers$$anonfun$1(Types.scala:1011)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:15)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:10)
+	at dotty.tools.dotc.core.Types$Type.memberDenots$$anonfun$1(Types.scala:916)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.HashSet.foreach(HashSet.scala:937)
+	at dotty.tools.dotc.core.Types$Type.memberDenots(Types.scala:916)
+	at dotty.tools.dotc.core.Types$Type.allMembers(Types.scala:1011)
+	at scala.meta.internal.pc.IndexedContext$.accesibleMembers$1(IndexedContext.scala:127)
+	at scala.meta.internal.pc.IndexedContext$.scala$meta$internal$pc$IndexedContext$$$extractNames(IndexedContext.scala:184)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:77)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$9(ScalaPresentationCompiler.scala:335)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:341)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Exception in thread "pool-3-thread-3" dotty.tools.dotc.core.TypeError: Toplevel definition rgba is defined in
+  /home/coder/project/src/main/scala/scalashop/common.scala
+and also in
+  /home/coder/project/scalashop/src/main/scala/scalashop/common.scala
+One of these files should be removed from the classpath.
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.dropStale$1(SymDenotations.scala:2439)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.recur$1(SymDenotations.scala:2403)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.computeMembersNamed(SymDenotations.scala:2459)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.membersNamed(SymDenotations.scala:2012)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.findMember(SymDenotations.scala:2063)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:683)
+	at dotty.tools.dotc.core.Types$Type.goThis$1(Types.scala:807)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:700)
+	at dotty.tools.dotc.core.Types$Type.findMember(Types.scala:870)
+	at dotty.tools.dotc.core.Types$Type.memberBasedOnFlags(Types.scala:666)
+	at dotty.tools.dotc.core.Types$Type.member(Types.scala:650)
+	at dotty.tools.dotc.core.Types$Type.allMembers$$anonfun$1(Types.scala:1011)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:15)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:10)
+	at dotty.tools.dotc.core.Types$Type.memberDenots$$anonfun$1(Types.scala:916)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.HashSet.foreach(HashSet.scala:937)
+	at dotty.tools.dotc.core.Types$Type.memberDenots(Types.scala:916)
+	at dotty.tools.dotc.core.Types$Type.allMembers(Types.scala:1011)
+	at scala.meta.internal.pc.IndexedContext$.accesibleMembers$1(IndexedContext.scala:127)
+	at scala.meta.internal.pc.IndexedContext$.scala$meta$internal$pc$IndexedContext$$$extractNames(IndexedContext.scala:184)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:77)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$9(ScalaPresentationCompiler.scala:335)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:341)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+[0m2024.08.06 18:11:20 WARN  no build target for: /home/coder/project/scalashop/src/test/scala/scalashop/VerticalBlurSuite.scala[0m
+[0m2024.08.06 18:11:32 WARN  no build target for: /home/coder/project/scalashop/src/test/scala/scalashop/VerticalBlurSuite.scala[0m
+Exception in thread "pool-3-thread-4" dotty.tools.dotc.core.TypeError: Toplevel definition rgba is defined in
+  /home/coder/project/src/main/scala/scalashop/common.scala
+and also in
+  /home/coder/project/scalashop/src/main/scala/scalashop/common.scala
+One of these files should be removed from the classpath.
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.dropStale$1(SymDenotations.scala:2439)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.recur$1(SymDenotations.scala:2403)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.computeMembersNamed(SymDenotations.scala:2459)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.membersNamed(SymDenotations.scala:2012)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.findMember(SymDenotations.scala:2063)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:683)
+	at dotty.tools.dotc.core.Types$Type.goThis$1(Types.scala:807)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:700)
+	at dotty.tools.dotc.core.Types$Type.findMember(Types.scala:870)
+	at dotty.tools.dotc.core.Types$Type.memberBasedOnFlags(Types.scala:666)
+	at dotty.tools.dotc.core.Types$Type.member(Types.scala:650)
+	at dotty.tools.dotc.core.Types$Type.allMembers$$anonfun$1(Types.scala:1011)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:15)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:10)
+	at dotty.tools.dotc.core.Types$Type.memberDenots$$anonfun$1(Types.scala:916)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.HashSet.foreach(HashSet.scala:937)
+	at dotty.tools.dotc.core.Types$Type.memberDenots(Types.scala:916)
+	at dotty.tools.dotc.core.Types$Type.allMembers(Types.scala:1011)
+	at scala.meta.internal.pc.IndexedContext$.accesibleMembers$1(IndexedContext.scala:127)
+	at scala.meta.internal.pc.IndexedContext$.scala$meta$internal$pc$IndexedContext$$$extractNames(IndexedContext.scala:184)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:77)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$9(ScalaPresentationCompiler.scala:335)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:341)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Aug 06, 2024 6:12:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 437
+[0m2024.08.06 18:12:11 WARN  no build target for: /home/coder/project/scalashop/build.sbt[0m
+Exception in thread "pool-3-thread-5" dotty.tools.dotc.core.TypeError: Toplevel definition rgba is defined in
+  /home/coder/project/src/main/scala/scalashop/common.scala
+and also in
+  /home/coder/project/scalashop/src/main/scala/scalashop/common.scala
+One of these files should be removed from the classpath.
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.dropStale$1(SymDenotations.scala:2439)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.recur$1(SymDenotations.scala:2403)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.computeMembersNamed(SymDenotations.scala:2459)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.membersNamed(SymDenotations.scala:2012)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.findMember(SymDenotations.scala:2063)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:683)
+	at dotty.tools.dotc.core.Types$Type.goThis$1(Types.scala:807)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:700)
+	at dotty.tools.dotc.core.Types$Type.findMember(Types.scala:870)
+	at dotty.tools.dotc.core.Types$Type.memberBasedOnFlags(Types.scala:666)
+	at dotty.tools.dotc.core.Types$Type.member(Types.scala:650)
+	at dotty.tools.dotc.core.Types$Type.allMembers$$anonfun$1(Types.scala:1011)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:15)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:10)
+	at dotty.tools.dotc.core.Types$Type.memberDenots$$anonfun$1(Types.scala:916)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.HashSet.foreach(HashSet.scala:937)
+	at dotty.tools.dotc.core.Types$Type.memberDenots(Types.scala:916)
+	at dotty.tools.dotc.core.Types$Type.allMembers(Types.scala:1011)
+	at scala.meta.internal.pc.IndexedContext$.accesibleMembers$1(IndexedContext.scala:127)
+	at scala.meta.internal.pc.IndexedContext$.scala$meta$internal$pc$IndexedContext$$$extractNames(IndexedContext.scala:184)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:77)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$9(ScalaPresentationCompiler.scala:335)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:341)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Exception in thread "pool-3-thread-6" dotty.tools.dotc.core.TypeError: Toplevel definition rgba is defined in
+  /home/coder/project/src/main/scala/scalashop/common.scala
+and also in
+  /home/coder/project/scalashop/src/main/scala/scalashop/common.scala
+One of these files should be removed from the classpath.
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.dropStale$1(SymDenotations.scala:2439)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.recur$1(SymDenotations.scala:2403)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.computeMembersNamed(SymDenotations.scala:2459)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.membersNamed(SymDenotations.scala:2012)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.findMember(SymDenotations.scala:2063)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:683)
+	at dotty.tools.dotc.core.Types$Type.goThis$1(Types.scala:807)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:700)
+	at dotty.tools.dotc.core.Types$Type.findMember(Types.scala:870)
+	at dotty.tools.dotc.core.Types$Type.memberBasedOnFlags(Types.scala:666)
+	at dotty.tools.dotc.core.Types$Type.member(Types.scala:650)
+	at dotty.tools.dotc.core.Types$Type.allMembers$$anonfun$1(Types.scala:1011)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:15)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:10)
+	at dotty.tools.dotc.core.Types$Type.memberDenots$$anonfun$1(Types.scala:916)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.HashSet.foreach(HashSet.scala:937)
+	at dotty.tools.dotc.core.Types$Type.memberDenots(Types.scala:916)
+	at dotty.tools.dotc.core.Types$Type.allMembers(Types.scala:1011)
+	at scala.meta.internal.pc.IndexedContext$.accesibleMembers$1(IndexedContext.scala:127)
+	at scala.meta.internal.pc.IndexedContext$.scala$meta$internal$pc$IndexedContext$$$extractNames(IndexedContext.scala:184)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:77)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$9(ScalaPresentationCompiler.scala:335)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:341)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Aug 06, 2024 6:16:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///home/coder/project/project/plugins.sbt",
+        "type": 3
+      },
+      {
+        "uri": "file:///home/coder/project/project/buildSettings.sbt",
+        "type": 3
+      },
+      {
+        "uri": "file:///home/coder/project/project/MOOCSettings.scala",
+        "type": 3
+      },
+      {
+        "uri": "file:///home/coder/project/project/StudentTasks.scala",
+        "type": 3
+      },
+      {
+        "uri": "file:///home/coder/project/project/CourseraStudent.scala",
+        "type": 3
+      },
+      {
+        "uri": "file:///home/coder/project/project/build.properties",
+        "type": 3
+      }
+    ]
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.nio.file.NoSuchFileException: /home/coder/project/project/plugins.sbt
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:116)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:219)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:371)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:422)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3206)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$onChange$1(MetalsLanguageServer.scala:1337)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$onChange$1$adapted(MetalsLanguageServer.scala:1336)
+	at scala.collection.immutable.Stream.foreach(Stream.scala:533)
+	at scala.meta.internal.metals.MetalsLanguageServer.onChange(MetalsLanguageServer.scala:1336)
+	at scala.meta.internal.metals.MetalsLanguageServer.didChangeWatchedFiles(MetalsLanguageServer.scala:1280)
+	... 16 more
+
+[0m2024.08.06 18:16:31 WARN  no build target for: /home/coder/project/assignment.sbt[0m
+Aug 06, 2024 6:16:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 464
+[0m2024.08.06 18:16:34 WARN  no build target for: /home/coder/project/build.sbt[0m
+Aug 06, 2024 6:16:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 469
+[0m2024.08.06 18:16:46 WARN  no build target for: /home/coder/project/assignment.sbt[0m
+Aug 06, 2024 6:16:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///home/coder/project/assignment.sbt",
+        "type": 3
+      }
+    ]
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.nio.file.NoSuchFileException: /home/coder/project/assignment.sbt
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:116)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:219)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:371)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:422)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3206)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$onChange$1(MetalsLanguageServer.scala:1337)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$onChange$1$adapted(MetalsLanguageServer.scala:1336)
+	at scala.collection.immutable.Stream.foreach(Stream.scala:533)
+	at scala.meta.internal.metals.MetalsLanguageServer.onChange(MetalsLanguageServer.scala:1336)
+	at scala.meta.internal.metals.MetalsLanguageServer.didChangeWatchedFiles(MetalsLanguageServer.scala:1280)
+	... 16 more
+
+[0m2024.08.06 18:16:55 WARN  no build target for: /home/coder/project/build.sbt[0m
+Aug 06, 2024 6:17:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///home/coder/project/build.sbt",
+        "type": 3
+      }
+    ]
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.nio.file.NoSuchFileException: /home/coder/project/build.sbt
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:116)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:219)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:371)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:422)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3206)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$onChange$1(MetalsLanguageServer.scala:1337)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$onChange$1$adapted(MetalsLanguageServer.scala:1336)
+	at scala.collection.immutable.Stream.foreach(Stream.scala:533)
+	at scala.meta.internal.metals.MetalsLanguageServer.onChange(MetalsLanguageServer.scala:1336)
+	at scala.meta.internal.metals.MetalsLanguageServer.didChangeWatchedFiles(MetalsLanguageServer.scala:1280)
+	... 16 more
+
+[0m2024.08.06 18:17:05 WARN  no build target for: /home/coder/project/assignment.sbt[0m
+[0m2024.08.06 18:17:05 WARN  no build target for: /home/coder/project/build.sbt[0m
+[0m2024.08.06 18:17:06 WARN  no build target for: /home/coder/project/project/CourseraStudent.scala[0m
+[0m2024.08.06 18:17:06 WARN  no build target for: /home/coder/project/project/MOOCSettings.scala[0m
+[0m2024.08.06 18:17:06 WARN  no build target for: /home/coder/project/project/StudentTasks.scala[0m
+[0m2024.08.06 18:17:06 WARN  no build target for: /home/coder/project/project/plugins.sbt[0m
+[0m2024.08.06 18:17:06 WARN  no build target for: /home/coder/project/project/buildSettings.sbt[0m
+[0m2024.08.06 18:17:07 INFO  skipping build import with status 'Requested'[0m
+[0m2024.08.06 18:17:22 WARN  no build target for: /home/coder/project/assignment.sbt[0m
+[0m2024.08.06 18:17:49 WARN  no build target for: /home/coder/project/build.sbt[0m
+Aug 06, 2024 6:18:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 491
+[0m2024.08.06 18:18:25 WARN  no build target for: /home/coder/project/src/main/scala/scalashop/HorizontalBoxBlur.scala[0m
+Exception in thread "pool-3-thread-7" dotty.tools.dotc.core.TypeError: Toplevel definition rgba is defined in
+  /home/coder/project/src/main/scala/scalashop/common.scala
+and also in
+  /home/coder/project/scalashop/src/main/scala/scalashop/common.scala
+One of these files should be removed from the classpath.
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.dropStale$1(SymDenotations.scala:2439)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.recur$1(SymDenotations.scala:2403)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.computeMembersNamed(SymDenotations.scala:2459)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.membersNamed(SymDenotations.scala:2012)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.findMember(SymDenotations.scala:2063)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:683)
+	at dotty.tools.dotc.core.Types$Type.goThis$1(Types.scala:807)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:700)
+	at dotty.tools.dotc.core.Types$Type.findMember(Types.scala:870)
+	at dotty.tools.dotc.core.Types$Type.memberBasedOnFlags(Types.scala:666)
+	at dotty.tools.dotc.core.Types$Type.member(Types.scala:650)
+	at dotty.tools.dotc.core.Types$Type.allMembers$$anonfun$1(Types.scala:1011)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:15)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:10)
+	at dotty.tools.dotc.core.Types$Type.memberDenots$$anonfun$1(Types.scala:916)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.HashSet.foreach(HashSet.scala:937)
+	at dotty.tools.dotc.core.Types$Type.memberDenots(Types.scala:916)
+	at dotty.tools.dotc.core.Types$Type.allMembers(Types.scala:1011)
+	at scala.meta.internal.pc.IndexedContext$.accesibleMembers$1(IndexedContext.scala:127)
+	at scala.meta.internal.pc.IndexedContext$.scala$meta$internal$pc$IndexedContext$$$extractNames(IndexedContext.scala:184)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:77)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$9(ScalaPresentationCompiler.scala:335)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:341)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+[0m2024.08.06 18:18:47 WARN  no build target for: /home/coder/project/src/main/scala/scalashop/HorizontalBoxBlur.scala[0m
+[0m2024.08.06 18:18:50 WARN  no build target for: /home/coder/project/src/main/scala/scalashop/HorizontalBoxBlur.scala[0m
+[0m2024.08.06 18:18:51 WARN  no build target for: /home/coder/project/src/main/scala/scalashop/HorizontalBoxBlur.scala[0m
+[0m2024.08.06 18:18:58 WARN  no build target for: /home/coder/project/src/main/scala/scalashop/Interfaces.scala[0m
+Aug 06, 2024 6:19:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 522
+[0m2024.08.06 18:19:13 WARN  no build target for: /home/coder/project/src/main/scala/scalashop/PhotoCanvas.scala[0m
+[0m2024.08.06 18:19:16 WARN  no build target for: /home/coder/project/src/main/scala/scalashop/ScalaShop.scala[0m
+Exception in thread "pool-3-thread-8" dotty.tools.dotc.core.TypeError: Toplevel definition rgba is defined in
+  /home/coder/project/src/main/scala/scalashop/common.scala
+and also in
+  /home/coder/project/scalashop/src/main/scala/scalashop/common.scala
+One of these files should be removed from the classpath.
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.dropStale$1(SymDenotations.scala:2439)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.recur$1(SymDenotations.scala:2403)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.computeMembersNamed(SymDenotations.scala:2459)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.membersNamed(SymDenotations.scala:2012)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.findMember(SymDenotations.scala:2063)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:683)
+	at dotty.tools.dotc.core.Types$Type.goThis$1(Types.scala:807)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:700)
+	at dotty.tools.dotc.core.Types$Type.findMember(Types.scala:870)
+	at dotty.tools.dotc.core.Types$Type.memberBasedOnFlags(Types.scala:666)
+	at dotty.tools.dotc.core.Types$Type.member(Types.scala:650)
+	at dotty.tools.dotc.core.Types$Type.allMembers$$anonfun$1(Types.scala:1011)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:15)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:10)
+	at dotty.tools.dotc.core.Types$Type.memberDenots$$anonfun$1(Types.scala:916)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.HashSet.foreach(HashSet.scala:937)
+	at dotty.tools.dotc.core.Types$Type.memberDenots(Types.scala:916)
+	at dotty.tools.dotc.core.Types$Type.allMembers(Types.scala:1011)
+	at scala.meta.internal.pc.IndexedContext$.accesibleMembers$1(IndexedContext.scala:127)
+	at scala.meta.internal.pc.IndexedContext$.scala$meta$internal$pc$IndexedContext$$$extractNames(IndexedContext.scala:184)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:77)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$9(ScalaPresentationCompiler.scala:335)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:341)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+[0m2024.08.06 18:19:39 WARN  no build target for: /home/coder/project/src/main/scala/scalashop/ScalaShop.scala[0m
+[0m2024.08.06 18:19:41 WARN  no build target for: /home/coder/project/src/main/scala/scalashop/ScalaShop.scala[0m
+[0m2024.08.06 18:19:43 WARN  no build target for: /home/coder/project/src/main/scala/scalashop/ScalaShop.scala[0m
+[0m2024.08.06 18:19:44 WARN  no build target for: /home/coder/project/src/main/scala/scalashop/ScalaShop.scala[0m
+[0m2024.08.06 18:19:48 WARN  no build target for: /home/coder/project/src/main/scala/scalashop/ScalaShop.scala[0m
+[0m2024.08.06 18:19:49 WARN  no build target for: /home/coder/project/src/main/scala/scalashop/ScalaShop.scala[0m
+[0m2024.08.06 18:19:53 WARN  no build target for: /home/coder/project/src/main/scala/scalashop/ScalaShop.scala[0m
+[0m2024.08.06 18:19:54 WARN  no build target for: /home/coder/project/src/main/scala/scalashop/ScalaShop.scala[0m
+[0m2024.08.06 18:20:02 WARN  no build target for: /home/coder/project/src/main/scala/scalashop/VerticalBoxBlur.scala[0m
+Exception in thread "pool-3-thread-9" dotty.tools.dotc.core.TypeError: Toplevel definition rgba is defined in
+  /home/coder/project/src/main/scala/scalashop/common.scala
+and also in
+  /home/coder/project/scalashop/src/main/scala/scalashop/common.scala
+One of these files should be removed from the classpath.
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.dropStale$1(SymDenotations.scala:2439)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.recur$1(SymDenotations.scala:2403)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.computeMembersNamed(SymDenotations.scala:2459)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.membersNamed(SymDenotations.scala:2012)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.findMember(SymDenotations.scala:2063)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:683)
+	at dotty.tools.dotc.core.Types$Type.goThis$1(Types.scala:807)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:700)
+	at dotty.tools.dotc.core.Types$Type.findMember(Types.scala:870)
+	at dotty.tools.dotc.core.Types$Type.memberBasedOnFlags(Types.scala:666)
+	at dotty.tools.dotc.core.Types$Type.member(Types.scala:650)
+	at dotty.tools.dotc.core.Types$Type.allMembers$$anonfun$1(Types.scala:1011)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:15)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:10)
+	at dotty.tools.dotc.core.Types$Type.memberDenots$$anonfun$1(Types.scala:916)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.HashSet.foreach(HashSet.scala:937)
+	at dotty.tools.dotc.core.Types$Type.memberDenots(Types.scala:916)
+	at dotty.tools.dotc.core.Types$Type.allMembers(Types.scala:1011)
+	at scala.meta.internal.pc.IndexedContext$.accesibleMembers$1(IndexedContext.scala:127)
+	at scala.meta.internal.pc.IndexedContext$.scala$meta$internal$pc$IndexedContext$$$extractNames(IndexedContext.scala:184)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:77)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$9(ScalaPresentationCompiler.scala:335)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:341)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+[0m2024.08.06 18:20:14 WARN  no build target for: /home/coder/project/src/main/scala/scalashop/VerticalBoxBlur.scala[0m
+[0m2024.08.06 18:20:25 WARN  no build target for: /home/coder/project/src/main/scala/scalashop/common.scala[0m
+[0m2024.08.06 18:21:04 WARN  no build target for: /home/coder/project/src/main/scala/scalashop/common.scala[0m
+[0m2024.08.06 18:21:34 WARN  no build target for: /home/coder/project/src/test/HorizontalBlurSuite.scala[0m
+[0m2024.08.06 18:21:49 WARN  no build target for: /home/coder/project/src/test/scala/scalashop/VerticalBlurSuite.scala[0m
+Aug 06, 2024 6:22:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 616
+Exception in thread "pool-3-thread-10" dotty.tools.dotc.core.TypeError: Toplevel definition rgba is defined in
+  /home/coder/project/scalashop/src/main/scala/scalashop/common.scala
+and also in
+  /home/coder/project/src/main/scala/scalashop/common.scala
+One of these files should be removed from the classpath.
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.dropStale$1(SymDenotations.scala:2439)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.recur$1(SymDenotations.scala:2403)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.computeMembersNamed(SymDenotations.scala:2459)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.membersNamed(SymDenotations.scala:2012)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.findMember(SymDenotations.scala:2063)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:683)
+	at dotty.tools.dotc.core.Types$Type.goThis$1(Types.scala:807)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:700)
+	at dotty.tools.dotc.core.Types$Type.findMember(Types.scala:870)
+	at dotty.tools.dotc.core.Types$Type.memberBasedOnFlags(Types.scala:666)
+	at dotty.tools.dotc.core.Types$Type.member(Types.scala:650)
+	at dotty.tools.dotc.core.Types$Type.allMembers$$anonfun$1(Types.scala:1011)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:15)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:10)
+	at dotty.tools.dotc.core.Types$Type.memberDenots$$anonfun$1(Types.scala:916)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.HashSet.foreach(HashSet.scala:937)
+	at dotty.tools.dotc.core.Types$Type.memberDenots(Types.scala:916)
+	at dotty.tools.dotc.core.Types$Type.allMembers(Types.scala:1011)
+	at scala.meta.internal.pc.IndexedContext$.accesibleMembers$1(IndexedContext.scala:127)
+	at scala.meta.internal.pc.IndexedContext$.scala$meta$internal$pc$IndexedContext$$$extractNames(IndexedContext.scala:184)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:77)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitions(PcDefinitionProvider.scala:59)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.definition$$anonfun$1(ScalaPresentationCompiler.scala:207)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+[0m2024.08.06 18:22:03 WARN  no build target for: /home/coder/project/src/test/HorizontalBlurSuite.scala[0m
+Aug 06, 2024 6:22:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 628
+[0m2024.08.06 18:22:18 WARN  no build target for: /home/coder/project/src/test/scala/scalashop/VerticalBlurSuite.scala[0m
+[0m2024.08.06 18:22:35 WARN  no build target for: /home/coder/project/project/StudentTasks.scala[0m
+[0m2024.08.06 18:33:27 WARN  no build target for: /home/coder/project/project/project/metals.sbt[0m
+[0m2024.08.06 18:33:27 INFO  skipping build import with status 'Requested'[0m
+[0m2024.08.06 18:33:27 WARN  no build target for: /home/coder/project/project/project/metals.sbt[0m
+Aug 06, 2024 6:33:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 648
+Aug 06, 2024 6:33:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///home/coder/project/project/metals.sbt",
+        "type": 1
+      },
+      {
+        "uri": "file:///home/coder/project/project/project/metals.sbt",
+        "type": 3
+      }
+    ]
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.nio.file.NoSuchFileException: /home/coder/project/project/project/metals.sbt
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:116)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:219)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:371)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:422)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3206)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$onChange$1(MetalsLanguageServer.scala:1337)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$onChange$1$adapted(MetalsLanguageServer.scala:1336)
+	at scala.collection.immutable.Stream.foreach(Stream.scala:533)
+	at scala.meta.internal.metals.MetalsLanguageServer.onChange(MetalsLanguageServer.scala:1336)
+	at scala.meta.internal.metals.MetalsLanguageServer.didChangeWatchedFiles(MetalsLanguageServer.scala:1280)
+	... 16 more
+
+[0m2024.08.06 18:33:33 WARN  no build target for: /home/coder/project/project/metals.sbt[0m
+[0m2024.08.06 18:33:43 WARN  no build target for: /home/coder/project/project/metals.sbt[0m
+[0m2024.08.06 18:33:47 INFO  running '/usr/lib/jvm/java-11-openjdk-amd64/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals11653658636849895699/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+[0m2024.08.06 18:33:47 WARN  no build target for: /home/coder/project/project/metals.sbt[0m
+[0m2024.08.06 18:33:47 WARN  no build target for: /home/coder/project/project/project/metals.sbt[0m
+[0m2024.08.06 18:33:50 INFO  [info] welcome to sbt 1.8.2 (Ubuntu Java 11.0.11)[0m
+[0m2024.08.06 18:33:56 INFO  [info] loading settings for project project-build-build-build from metals.sbt ...[0m
+[0m2024.08.06 18:33:59 INFO  [info] loading project definition from /home/coder/project/project/project/project[0m
+[0m2024.08.06 18:34:06 INFO  [info] loading settings for project project-build-build from metals.sbt ...[0m
+[0m2024.08.06 18:34:06 INFO  [info] loading project definition from /home/coder/project/project/project[0m
+[0m2024.08.06 18:34:14 INFO  [success] Generated .bloop/project-build-build.json[0m
+[0m2024.08.06 18:34:14 INFO  [success] Total time: 7 s, completed Aug 6, 2024, 6:34:14 PM[0m
+[0m2024.08.06 18:34:19 INFO  [info] loading settings for project project-build from buildSettings.sbt,metals.sbt,plugins.sbt ...[0m
+[0m2024.08.06 18:34:19 INFO  [info] loading project definition from /home/coder/project/project[0m
+[0m2024.08.06 18:34:23 INFO  [success] Generated .bloop/project-build.json[0m
+[0m2024.08.06 18:34:24 INFO  [info] compiling 3 Scala sources to /home/coder/project/project/target/scala-2.12/sbt-1.0/classes ...[0m
+[0m2024.08.06 18:34:40 INFO  [info] done compiling[0m
+[0m2024.08.06 18:34:40 INFO  [success] Total time: 21 s, completed Aug 6, 2024, 6:34:40 PM[0m
+[0m2024.08.06 18:34:44 INFO  [info] loading settings for project project from assignment.sbt,build.sbt ...[0m
+[0m2024.08.06 18:34:44 INFO  [info] set current project to parprog1-scalashop (in build file:/home/coder/project/)[0m
+[0m2024.08.06 18:34:48 INFO  [success] Generated .bloop/project.json[0m
+[0m2024.08.06 18:34:48 INFO  [success] Generated .bloop/project-test.json[0m
+[0m2024.08.06 18:34:48 INFO  [success] Total time: 2 s, completed Aug 6, 2024, 6:34:48 PM[0m
+[0m2024.08.06 18:34:48 INFO  time: ran 'sbt bloopInstall' in 1m1s[0m
+[0m2024.08.06 18:34:48 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher12410747172897489250/bsp.socket'...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+No server running at 127.0.0.1:8212, let's fire one...
+Resolving ch.epfl.scala:bloop-frontend_2.12:1.4.10-8-8d1cbc4f...
+Starting bloop server at 127.0.0.1:8212...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+[0m[32m[D][0m Loading 2 projects from '/home/coder/project/.bloop'...
+[0m[32m[D][0m Loading project from '/home/coder/project/.bloop/project-test.json'
+[0m[32m[D][0m Loading project from '/home/coder/project/.bloop/project.json'
+[0m[32m[D][0m Cache miss for scala instance org.scala-lang:scala-compiler:3.3.0.
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.13.3/jackson-annotations-2.13.3.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.13.3/jackson-core-2.13.3.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.13.3/jackson-databind-2.13.3.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.13.3/jackson-dataformat-yaml-2.13.3.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.12.1/jackson-datatype-jsr310-2.12.1.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/protobuf/protobuf-java/3.7.0/protobuf-java-3.7.0.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-ext-anchorlink/0.42.12/flexmark-ext-anchorlink-0.42.12.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-ext-autolink/0.42.12/flexmark-ext-autolink-0.42.12.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-ext-emoji/0.42.12/flexmark-ext-emoji-0.42.12.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-ext-gfm-strikethrough/0.42.12/flexmark-ext-gfm-strikethrough-0.42.12.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-ext-gfm-tables/0.42.12/flexmark-ext-gfm-tables-0.42.12.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-ext-gfm-tasklist/0.42.12/flexmark-ext-gfm-tasklist-0.42.12.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-ext-ins/0.42.12/flexmark-ext-ins-0.42.12.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-ext-superscript/0.42.12/flexmark-ext-superscript-0.42.12.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-ext-tables/0.42.12/flexmark-ext-tables-0.42.12.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-ext-wikilink/0.42.12/flexmark-ext-wikilink-0.42.12.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-ext-yaml-front-matter/0.42.12/flexmark-ext-yaml-front-matter-0.42.12.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-formatter/0.42.12/flexmark-formatter-0.42.12.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-html-parser/0.42.12/flexmark-html-parser-0.42.12.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-jira-converter/0.42.12/flexmark-jira-converter-0.42.12.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-util/0.42.12/flexmark-util-0.42.12.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark/0.42.12/flexmark-0.42.12.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.3.1/jna-5.3.1.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/nl/big-o/liqp/0.8.2/liqp-0.8.2.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/org/antlr/antlr4-runtime/4.7.2/antlr4-runtime-4.7.2.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-reader/3.19.0/jline-reader-3.19.0.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal-jna/3.19.0/jline-terminal-jna-3.19.0.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal/3.19.0/jline-terminal-3.19.0.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jsoup/jsoup/1.14.3/jsoup-1.14.3.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/org/nibor/autolink/autolink/0.6.0/autolink-0.6.0.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-asm/9.4.0-scala-1/scala-asm-9.4.0-scala-1.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.10/scala-library-2.13.10.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.3.0/scala3-compiler_3-3.3.0.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-interfaces/3.3.0/scala3-interfaces-3.3.0.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.0/scala3-library_3-3.3.0.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-tasty-inspector_3/3.3.0/scala3-tasty-inspector_3-3.3.0.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scaladoc_3/3.3.0/scaladoc_3-3.3.0.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/tasty-core_3/3.3.0/tasty-core_3-3.3.0.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.3.5/compiler-interface-1.3.5.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-interface/1.3.0/util-interface-1.3.0.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/org/yaml/snakeyaml/1.30/snakeyaml-1.30.jar
+[0m[32m[D][0m   => /home/coder/.cache/coursier/v1/https/repo1.maven.org/maven2/ua/co/k/strftime4j/1.0.5/strftime4j-1.0.5.jar
+[0m[32m[D][0m Missing analysis file for project 'project-test'
+[0m[32m[D][0m Missing analysis file for project 'project'
+[0m[32m[D][0m Waiting for a connection at local:///tmp/bsp-launcher12410747172897489250/bsp.socket...
+The server is listening for incoming connections at local:///tmp/bsp-launcher12410747172897489250/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2024.08.06 18:34:59 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/coder/.cache/metals/bsp.trace.json[0m
+[0m2024.08.06 18:34:59 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+[0m2024.08.06 18:34:59 INFO  Attempting to connect to the build server...[0m
+Opening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher928204130337790060/bsp.socket'...
+Waiting for the bsp connection to come up...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher15318725952253319298/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///tmp/bsp-launcher928204130337790060/bsp.socket...
+The server is listening for incoming connections at local:///tmp/bsp-launcher928204130337790060/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///tmp/bsp-launcher15318725952253319298/bsp.socket...
+The server is listening for incoming connections at local:///tmp/bsp-launcher15318725952253319298/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2024.08.06 18:34:59 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/coder/.cache/metals/bsp.trace.json[0m
+[0m2024.08.06 18:34:59 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/coder/.cache/metals/bsp.trace.json[0m
+[0m2024.08.06 18:34:59 INFO  time: Connected to build server in 11s[0m
+[0m2024.08.06 18:34:59 INFO  Connected to Build server: Bloop v1.4.10-8-8d1cbc4f[0m
+[0m2024.08.06 18:34:59 INFO  time: Imported build in 0.28s[0m
+[0m2024.08.06 18:35:03 WARN  Could not find java sources in None. Java symbols will not be available.[0m
+[0m2024.08.06 18:35:09 INFO  time: indexed workspace in 8.99s[0m
+[0m2024.08.06 18:35:09 WARN  no build target for: /home/coder/project/src/test/HorizontalBlurSuite.scala[0m
+[0m2024.08.06 18:35:09 WARN  unsupported Scala 3.3.0[0m
+[0m2024.08.06 18:35:09 WARN  unsupported Scala 3.3.0[0m
+[0m2024.08.06 18:35:09 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 18:35:09 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 18:35:11 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2024.08.06 18:35:11 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 18:35:18 INFO  skipping build import with status 'Installed'[0m
+[0m2024.08.06 18:35:20 INFO  compiling project (6 scala sources)[0m
+[0m2024.08.06 18:35:20 INFO  compiling project-build (3 scala sources)[0m
+[0m2024.08.06 18:35:21 INFO  Non-compiled module 'compiler-bridge_2.12' for Scala 2.12.17. Compiling...[0m
+[0m2024.08.06 18:35:37 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 18:35:37 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 18:35:37 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 18:35:49 INFO    Compilation completed in 28.106s.[0m
+[0m2024.08.06 18:35:56 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 18:35:56 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 18:35:56 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 18:36:04 WARN  unsupported Scala 2.12.17[0m
+Aug 06, 2024 6:36:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 687
+[0m2024.08.06 18:36:05 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 18:36:06 INFO  time: compiled project-build in 46s[0m
+[0m2024.08.06 18:36:06 INFO  compiling project-build (3 scala sources)[0m
+[0m2024.08.06 18:36:14 INFO  time: compiled project-build in 8.5s[0m
+[0m2024.08.06 18:36:21 INFO  compiling project-test (2 scala sources)[0m
+[0m2024.08.06 18:36:21 INFO  time: compiled project in 1m1s[0m
+[0m2024.08.06 18:36:25 INFO  time: compiled project-test in 4.05s[0m
+[0m2024.08.06 18:36:33 INFO  compiling project-build (1 scala source)[0m
+[0m2024.08.06 18:36:33 INFO  time: compiled project-build in 0.11s[0m
+[0m2024.08.06 18:36:34 INFO  /home/coder/project/project/StudentTasks.scala:122:1: stale bloop error: Missing closing brace `}' assumed here
+
+^[0m
+[0m2024.08.06 18:36:34 INFO  /home/coder/project/project/StudentTasks.scala:122:1: stale bloop error: Missing closing brace `}' assumed here
+
+^[0m
+[0m2024.08.06 18:36:36 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 18:36:36 INFO  compiling project-build (1 scala source)[0m
+[0m2024.08.06 18:36:38 INFO  time: compiled project-build in 1.93s[0m
+Aug 06, 2024 6:36:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 719
+[0m2024.08.06 18:36:44 WARN  unsupported Scala 3.3.0[0m
+[0m2024.08.06 18:37:02 WARN  unsupported Scala 3.3.0[0m
+[0m2024.08.06 18:37:03 INFO  compiling project-test (1 scala source)[0m
+[0m2024.08.06 18:37:06 INFO  time: compiled project-test in 3.39s[0m
+[0m2024.08.06 18:37:10 WARN  unsupported Scala 3.3.0[0m
+[0m2024.08.06 18:37:13 INFO  running '/usr/lib/jvm/java-11-openjdk-amd64/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals18404730093860672854/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+[0m2024.08.06 18:37:15 WARN  unsupported Scala 3.3.0[0m
+[0m2024.08.06 18:37:15 WARN  unsupported Scala 3.3.0[0m
+[0m2024.08.06 18:37:17 INFO  [info] welcome to sbt 1.8.2 (Ubuntu Java 11.0.11)[0m
+[0m2024.08.06 18:37:18 WARN  unsupported Scala 3.3.0[0m
+[0m2024.08.06 18:37:19 INFO  [info] loading settings for project project-build-build-build from metals.sbt ...[0m
+[0m2024.08.06 18:37:22 INFO  [info] loading project definition from /home/coder/project/project/project/project[0m
+Aug 06, 2024 6:37:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 753
+Aug 06, 2024 6:37:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 754
+[0m2024.08.06 18:37:24 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 18:37:25 INFO  [info] loading settings for project project-build-build from metals.sbt ...[0m
+[0m2024.08.06 18:37:25 INFO  [info] loading project definition from /home/coder/project/project/project[0m
+[0m2024.08.06 18:37:27 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 18:37:28 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 18:37:33 INFO  [success] Generated .bloop/project-build-build.json[0m
+[0m2024.08.06 18:37:33 WARN  unsupported Scala 2.12.17[0m
+Aug 06, 2024 6:37:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 767
+[0m2024.08.06 18:37:33 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 18:37:33 ERROR No project associated with Uri(file:/home/coder/project/project/project/?id=project-build-build)[0m
+[0m2024.08.06 18:37:33 INFO  [success] Total time: 7 s, completed Aug 6, 2024, 6:37:33 PM[0m
+[0m2024.08.06 18:37:33 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 18:37:34 INFO  [info] loading settings for project project-build from buildSettings.sbt,metals.sbt,plugins.sbt ...[0m
+[0m2024.08.06 18:37:34 INFO  [info] loading project definition from /home/coder/project/project[0m
+[0m2024.08.06 18:37:38 INFO  [success] Generated .bloop/project-build.json[0m
+[0m2024.08.06 18:37:39 INFO  [info] compiling 1 Scala source to /home/coder/project/project/target/scala-2.12/sbt-1.0/classes ...[0m
+[0m2024.08.06 18:37:51 INFO  [info] done compiling[0m
+[0m2024.08.06 18:37:51 INFO  [success] Total time: 17 s, completed Aug 6, 2024, 6:37:52 PM[0m
+[0m2024.08.06 18:37:52 WARN  unsupported Scala 2.12.17[0m
+Aug 06, 2024 6:37:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 775
+[0m2024.08.06 18:37:57 WARN  unsupported Scala 3.3.0[0m
+[0m2024.08.06 18:37:57 WARN  unsupported Scala 3.3.0[0m
+[0m2024.08.06 18:38:03 INFO  [info] loading settings for project project from assignment.sbt,build.sbt ...[0m
+[0m2024.08.06 18:38:04 INFO  [info] set current project to parprog1-scalashop (in build file:/home/coder/project/)[0m
+[0m2024.08.06 18:38:04 INFO  [success] Generated .bloop/project.json[0m
+[0m2024.08.06 18:38:04 INFO  [success] Generated .bloop/project-test.json[0m
+[0m2024.08.06 18:38:04 INFO  [success] Total time: 1 s, completed Aug 6, 2024, 6:38:05 PM[0m
+[0m2024.08.06 18:38:05 INFO  time: ran 'sbt bloopInstall' in 51s[0m
+[0m2024.08.06 18:38:05 INFO  Disconnecting from Bloop session...[0m
+[0m2024.08.06 18:38:06 INFO  Shut down connection with build server.[0m
+[0m2024.08.06 18:38:06 INFO  Shut down connection with build server.[0m
+[0m2024.08.06 18:38:06 INFO  Shut down connection with build server.[0m
+No more data in the client stdin, exiting...
+No more data in the client stdin, exiting...
+No more data in the client stdin, exiting...
+[0m2024.08.06 18:38:06 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher8884823762164183655/bsp.socket'...
+Waiting for the bsp connection to come up...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///tmp/bsp-launcher8884823762164183655/bsp.socket...
+The server is listening for incoming connections at local:///tmp/bsp-launcher8884823762164183655/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2024.08.06 18:38:07 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/coder/.cache/metals/bsp.trace.json[0m
+[0m2024.08.06 18:38:07 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+[0m2024.08.06 18:38:07 INFO  Attempting to connect to the build server...[0m
+Opening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher1290079030939450090/bsp.socket'...
+Waiting for the bsp connection to come up...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher13464023263264114179/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///tmp/bsp-launcher1290079030939450090/bsp.socket...
+The server is listening for incoming connections at local:///tmp/bsp-launcher1290079030939450090/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2024.08.06 18:38:06 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/coder/.cache/metals/bsp.trace.json[0m
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///tmp/bsp-launcher13464023263264114179/bsp.socket...
+The server is listening for incoming connections at local:///tmp/bsp-launcher13464023263264114179/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2024.08.06 18:38:07 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/coder/.cache/metals/bsp.trace.json[0m
+[0m2024.08.06 18:38:07 INFO  time: Connected to build server in 0.31s[0m
+[0m2024.08.06 18:38:07 INFO  Connected to Build server: Bloop v1.4.10-8-8d1cbc4f[0m
+[0m2024.08.06 18:38:07 INFO  time: Imported build in 0.11s[0m
+[0m2024.08.06 18:38:15 WARN  Could not find java sources in None. Java symbols will not be available.[0m
+[0m2024.08.06 18:38:15 INFO  time: indexed workspace in 8.82s[0m
+[0m2024.08.06 18:38:16 WARN  no build target for: /home/coder/project/src/test/HorizontalBlurSuite.scala[0m
+[0m2024.08.06 18:38:16 WARN  unsupported Scala 3.3.0[0m
+[0m2024.08.06 18:38:16 WARN  unsupported Scala 3.3.0[0m
+[0m2024.08.06 18:38:16 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 18:38:16 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 18:38:18 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2024.08.06 18:38:39 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 18:38:39 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 18:38:46 WARN  unsupported Scala 2.12.17[0m
+Aug 06, 2024 6:38:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 797
+[0m2024.08.06 18:38:50 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 18:39:04 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 18:39:08 INFO  compiling project-build (1 scala source)[0m
+[0m2024.08.06 18:39:09 INFO  time: compiled project-build in 1.02s[0m
+[0m2024.08.06 18:39:09 INFO  compiling project-build (1 scala source)[0m
+[0m2024.08.06 18:39:10 INFO  time: compiled project-build in 0.16s[0m
+[0m2024.08.06 18:39:12 INFO  compiling project-build (1 scala source)[0m
+[0m2024.08.06 18:39:12 INFO  time: compiled project-build in 0.48s[0m
+[0m2024.08.06 18:39:14 INFO  compiling project-build (1 scala source)[0m
+[0m2024.08.06 18:39:14 INFO  time: compiled project-build in 0.5s[0m
+[0m2024.08.06 18:39:15 INFO  compiling project-build (1 scala source)[0m
+[0m2024.08.06 18:39:17 INFO  /home/coder/project/project/StudentTasks.scala:45:30: stale bloop error: ')' expected but eof found.
+    packageSubmissionSetting,
+                             ^[0m
+[0m2024.08.06 18:39:17 INFO  /home/coder/project/project/StudentTasks.scala:45:30: stale bloop error: ')' expected but eof found.
+    packageSubmissionSetting,
+                             ^[0m
+[0m2024.08.06 18:39:18 INFO  time: compiled project-build in 2.79s[0m
+[0m2024.08.06 18:39:18 INFO  compiling project-build (1 scala source)[0m
+[0m2024.08.06 18:39:18 INFO  time: compiled project-build in 0.13s[0m
+[0m2024.08.06 18:39:23 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 18:39:23 ERROR code navigation does not work for the file '/home/coder/project/project/StudentTasks.scala' because the Scala version 2.12.17 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.6 or 3.1.0.[0m
+[0m2024.08.06 18:39:24 WARN  unsupported Scala 2.12.17[0m
+Aug 06, 2024 6:39:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 848
+[0m2024.08.06 18:39:50 INFO  /home/coder/project/project/CourseraStudent.scala:47:34: stale bloop warning: a pure expression does nothing in statement position; multiline expressions might require enclosing parentheses
+    StudentTasks.scalafixLinting.value
+                                 ^[0m
+[0m2024.08.06 18:39:50 INFO  /home/coder/project/project/CourseraStudent.scala:47:34: stale bloop warning: a pure expression does nothing in statement position; multiline expressions might require enclosing parentheses
+    StudentTasks.scalafixLinting.value
+                                 ^[0m
+[0m2024.08.06 18:39:52 INFO  /home/coder/project/project/CourseraStudent.scala:47:34: stale bloop warning: a pure expression does nothing in statement position; multiline expressions might require enclosing parentheses
+    StudentTasks.scalafixLinting.value
+                                 ^[0m
+[0m2024.08.06 18:39:52 WARN  Skipping build import, no checksum.[0m
+[0m2024.08.06 18:39:52 INFO  compiling project-build (1 scala source)[0m
+[0m2024.08.06 18:39:52 INFO  /home/coder/project/project/CourseraStudent.scala:47:34: stale bloop warning: a pure expression does nothing in statement position; multiline expressions might require enclosing parentheses
+    StudentTasks.scalafixLinting.value
+                                 ^[0m
+[0m2024.08.06 18:39:52 INFO  /home/coder/project/project/CourseraStudent.scala:47:34: stale bloop warning: a pure expression does nothing in statement position; multiline expressions might require enclosing parentheses
+    StudentTasks.scalafixLinting.value
+                                 ^[0m
+[0m2024.08.06 18:39:52 INFO  /home/coder/project/project/CourseraStudent.scala:102:41: stale bloop error: unclosed multi-line string literal
+          |         "output":"$base64Jar"
+                                        ^[0m
+[0m2024.08.06 18:39:52 INFO  /home/coder/project/project/CourseraStudent.scala:102:41: stale bloop error: unclosed multi-line string literal
+          |         "output":"$base64Jar"
+                                        ^[0m
+[0m2024.08.06 18:39:52 INFO  /home/coder/project/project/CourseraStudent.scala:102:42: stale bloop error: unclosed multi-line string literal
+          |         "output":"$base64Jar"
+                                         ^[0m
+[0m2024.08.06 18:39:52 INFO  time: compiled project-build in 0.47s[0m
+[0m2024.08.06 18:39:54 INFO  /home/coder/project/project/CourseraStudent.scala:102:41: stale bloop error: unclosed multi-line string literal
+          |         "output":"$base64Jar"
+                                        ^[0m
+[0m2024.08.06 18:39:54 INFO  /home/coder/project/project/CourseraStudent.scala:102:42: stale bloop error: unclosed multi-line string literal
+          |         "output":"$base64Jar"
+                                         ^[0m
+[0m2024.08.06 18:39:54 WARN  Skipping build import, no checksum.[0m
+[0m2024.08.06 18:39:54 INFO  compiling project-build (1 scala source)[0m
+[0m2024.08.06 18:39:54 INFO  /home/coder/project/project/CourseraStudent.scala:102:41: stale bloop error: unclosed multi-line string literal
+          |         "output":"$base64Jar"
+                                        ^[0m
+[0m2024.08.06 18:39:54 INFO  /home/coder/project/project/CourseraStudent.scala:102:42: stale bloop error: unclosed multi-line string literal
+          |         "output":"$base64Jar"
+                                         ^[0m
+[0m2024.08.06 18:39:54 INFO  /home/coder/project/project/CourseraStudent.scala:102:41: stale bloop error: unclosed multi-line string literal
+          |         "output":"$base64Jar"
+                                        ^[0m
+[0m2024.08.06 18:39:54 INFO  /home/coder/project/project/CourseraStudent.scala:102:42: stale bloop error: unclosed multi-line string literal
+          |         "output":"$base64Jar"
+                                         ^[0m
+[0m2024.08.06 18:39:54 INFO  /home/coder/project/project/CourseraStudent.scala:85:81: stale bloop error: unclosed multi-line string literal
+                     |https://www.coursera.org/learn/$courseName/programming/$id
+                                                                                ^[0m
+[0m2024.08.06 18:39:54 INFO  /home/coder/project/project/CourseraStudent.scala:85:81: stale bloop error: unclosed multi-line string literal
+                     |https://www.coursera.org/learn/$courseName/programming/$id
+                                                                                ^[0m
+[0m2024.08.06 18:39:54 INFO  /home/coder/project/project/CourseraStudent.scala:83:17: stale bloop error: Missing closing brace `}' assumed here
+                premiumItemId.fold("") { id =>
+                ^[0m
+[0m2024.08.06 18:39:54 INFO  /home/coder/project/project/CourseraStudent.scala:84:31: stale bloop error: '(' expected but identifier found.
+                  s"""or (for premium learners):
+                              ^[0m
+[0m2024.08.06 18:39:54 INFO  time: compiled project-build in 0.43s[0m
+[0m2024.08.06 18:39:56 INFO  /home/coder/project/project/CourseraStudent.scala:85:81: stale bloop error: unclosed multi-line string literal
+                     |https://www.coursera.org/learn/$courseName/programming/$id
+                                                                                ^[0m
+[0m2024.08.06 18:39:56 INFO  /home/coder/project/project/CourseraStudent.scala:83:17: stale bloop error: Missing closing brace `}' assumed here
+                premiumItemId.fold("") { id =>
+                ^[0m
+[0m2024.08.06 18:39:56 INFO  /home/coder/project/project/CourseraStudent.scala:84:31: stale bloop error: '(' expected but identifier found.
+                  s"""or (for premium learners):
+                              ^[0m
+[0m2024.08.06 18:39:56 INFO  /home/coder/project/project/CourseraStudent.scala:85:81: stale bloop error: unclosed multi-line string literal
+                     |https://www.coursera.org/learn/$courseName/programming/$id
+                                                                                ^[0m
+[0m2024.08.06 18:39:56 INFO  /home/coder/project/project/CourseraStudent.scala:83:17: stale bloop error: Missing closing brace `}' assumed here
+                premiumItemId.fold("") { id =>
+                ^[0m
+[0m2024.08.06 18:39:56 INFO  /home/coder/project/project/CourseraStudent.scala:84:31: stale bloop error: '(' expected but identifier found.
+                  s"""or (for premium learners):
+                              ^[0m
+[0m2024.08.06 18:39:56 INFO  /home/coder/project/project/CourseraStudent.scala:85:81: stale bloop error: unclosed multi-line string literal
+                     |https://www.coursera.org/learn/$courseName/programming/$id
+                                                                                ^[0m
+[0m2024.08.06 18:39:56 INFO  /home/coder/project/project/CourseraStudent.scala:83:17: stale bloop error: Missing closing brace `}' assumed here
+                premiumItemId.fold("") { id =>
+                ^[0m
+[0m2024.08.06 18:39:56 INFO  /home/coder/project/project/CourseraStudent.scala:84:31: stale bloop error: '(' expected but identifier found.
+                  s"""or (for premium learners):
+                              ^[0m
+[0m2024.08.06 18:39:56 INFO  skipping build import with status 'Dismissed'[0m
+[0m2024.08.06 18:39:56 INFO  compiling project-build (1 scala source)[0m
+[0m2024.08.06 18:39:56 INFO  time: compiled project-build in 0.42s[0m
+[0m2024.08.06 18:39:58 INFO  skipping build import with status 'Dismissed'[0m
+[0m2024.08.06 18:39:58 INFO  compiling project-build (1 scala source)[0m
+[0m2024.08.06 18:39:58 INFO  time: compiled project-build in 0.45s[0m
+[0m2024.08.06 18:40:01 INFO  skipping build import with status 'Dismissed'[0m
+[0m2024.08.06 18:40:01 INFO  compiling project-build (1 scala source)[0m
+[0m2024.08.06 18:40:01 INFO  time: compiled project-build in 0.45s[0m
+[0m2024.08.06 18:40:03 INFO  /home/coder/project/project/CourseraStudent.scala:21:5: stale bloop error: expected class or object definition
+    val args: Seq[String] = Def.spaceDelimited("<arg>").parsed
+    ^[0m
+[0m2024.08.06 18:40:03 INFO  /home/coder/project/project/CourseraStudent.scala:22:5: stale bloop error: expected class or object definition
+    val s: TaskStreams = streams.value // for logging
+    ^[0m
+[0m2024.08.06 18:40:03 INFO  /home/coder/project/project/CourseraStudent.scala:23:5: stale bloop error: expected class or object definition
+    val jar = (Compile / packageSubmissionZip).value
+    ^[0m
+[0m2024.08.06 18:40:03 INFO  /home/coder/project/project/CourseraStudent.scala:25:5: stale bloop error: expected class or object definition
+    val assignmentDetails =
+    ^[0m
+[0m2024.08.06 18:40:03 INFO  /home/coder/project/project/CourseraStudent.scala:27:5: stale bloop error: expected class or object definition
+    val assignmentKey = assignmentDetails.key
+    ^[0m
+[0m2024.08.06 18:40:03 INFO  /home/coder/project/project/CourseraStudent.scala:21:5: stale bloop error: expected class or object definition
+    val args: Seq[String] = Def.spaceDelimited("<arg>").parsed
+    ^[0m
+[0m2024.08.06 18:40:03 INFO  /home/coder/project/project/CourseraStudent.scala:22:5: stale bloop error: expected class or object definition
+    val s: TaskStreams = streams.value // for logging
+    ^[0m
+[0m2024.08.06 18:40:03 INFO  /home/coder/project/project/CourseraStudent.scala:23:5: stale bloop error: expected class or object definition
+    val jar = (Compile / packageSubmissionZip).value
+    ^[0m
+[0m2024.08.06 18:40:03 INFO  /home/coder/project/project/CourseraStudent.scala:25:5: stale bloop error: expected class or object definition
+    val assignmentDetails =
+    ^[0m
+[0m2024.08.06 18:40:03 INFO  /home/coder/project/project/CourseraStudent.scala:27:5: stale bloop error: expected class or object definition
+    val assignmentKey = assignmentDetails.key
+    ^[0m
+[0m2024.08.06 18:40:03 INFO  skipping build import with status 'Dismissed'[0m
+[0m2024.08.06 18:40:03 INFO  compiling project-build (1 scala source)[0m
+[0m2024.08.06 18:40:03 INFO  time: compiled project-build in 0.84s[0m
+[0m2024.08.06 18:40:05 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 18:40:05 INFO  skipping build import with status 'Dismissed'[0m
+[0m2024.08.06 18:40:05 INFO  compiling project-build (1 scala source)[0m
+[0m2024.08.06 18:40:05 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 18:40:06 ERROR code navigation does not work for the file '/home/coder/project/project/CourseraStudent.scala' because the Scala version 2.12.17 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.6 or 3.1.0.[0m
+[0m2024.08.06 18:40:06 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 18:40:08 INFO  time: compiled project-build in 2.87s[0m
+[0m2024.08.06 18:40:08 INFO  skipping build import with status 'Dismissed'[0m
+Aug 06, 2024 6:40:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 903
+Aug 06, 2024 6:40:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 910
+[0m2024.08.06 18:40:19 WARN  unsupported Scala 2.12.17[0m
+Aug 06, 2024 6:40:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 919
+Aug 06, 2024 6:42:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 925
+Aug 06, 2024 6:42:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 931
+[0m2024.08.06 18:42:18 WARN  unsupported Scala 2.12.17[0m
+Aug 06, 2024 6:42:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 938
+[0m2024.08.06 18:42:47 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 18:42:47 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 18:42:47 WARN  unsupported Scala 2.12.17[0m
+Aug 06, 2024 6:42:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 949
+[0m2024.08.06 18:42:48 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 18:42:51 WARN  unsupported Scala 2.12.17[0m
+Aug 06, 2024 6:42:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 955
+[0m2024.08.06 18:42:52 WARN  unsupported Scala 2.12.17[0m
+Aug 06, 2024 6:49:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 966
+[0m2024.08.06 18:49:53 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 18:49:54 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 18:49:54 WARN  unsupported Scala 2.12.17[0m
+Aug 06, 2024 6:52:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 983
+[0m2024.08.06 18:54:22 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 18:56:13 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 18:56:13 WARN  unsupported Scala 2.12.17[0m
+Aug 06, 2024 6:56:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///home/coder/project/project/CourseraStudent.scala",
+        "type": 3
+      }
+    ]
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor20.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.nio.file.NoSuchFileException: /home/coder/project/project/CourseraStudent.scala
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:116)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:219)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:371)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:422)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3206)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$onChange$1(MetalsLanguageServer.scala:1337)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$onChange$1$adapted(MetalsLanguageServer.scala:1336)
+	at scala.collection.immutable.Stream.foreach(Stream.scala:533)
+	at scala.meta.internal.metals.MetalsLanguageServer.onChange(MetalsLanguageServer.scala:1336)
+	at scala.meta.internal.metals.MetalsLanguageServer.didChangeWatchedFiles(MetalsLanguageServer.scala:1280)
+	... 15 more
+
+[0m2024.08.06 18:56:13 INFO  skipping build import with status 'Requested'[0m
+[0m2024.08.06 18:56:13 INFO  skipping build import with status 'Requested'[0m
+[0m2024.08.06 18:56:13 INFO  compiling project-build (1 scala source)[0m
+[0m2024.08.06 18:56:14 INFO  skipping build import with status 'Requested'[0m
+[0m2024.08.06 18:56:14 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 18:56:14 INFO  time: compiled project-build in 1.17s[0m
+[0m2024.08.06 18:56:24 WARN  unsupported Scala 2.12.17[0m
+Aug 06, 2024 6:56:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///home/coder/project/project/StudentTasks.scala",
+        "type": 3
+      }
+    ]
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor20.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.nio.file.NoSuchFileException: /home/coder/project/project/StudentTasks.scala
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:116)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:219)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:371)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:422)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3206)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$onChange$1(MetalsLanguageServer.scala:1337)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$onChange$1$adapted(MetalsLanguageServer.scala:1336)
+	at scala.collection.immutable.Stream.foreach(Stream.scala:533)
+	at scala.meta.internal.metals.MetalsLanguageServer.onChange(MetalsLanguageServer.scala:1336)
+	at scala.meta.internal.metals.MetalsLanguageServer.didChangeWatchedFiles(MetalsLanguageServer.scala:1280)
+	... 15 more
+
+[0m2024.08.06 18:56:24 INFO  skipping build import with status 'Requested'[0m
+[0m2024.08.06 18:56:24 INFO  skipping build import with status 'Requested'[0m
+[0m2024.08.06 18:56:24 INFO  compiling project-build (1 scala source)[0m
+[0m2024.08.06 18:56:25 INFO  skipping build import with status 'Requested'[0m
+[0m2024.08.06 18:56:24 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 18:56:26 INFO  time: compiled project-build in 1.29s[0m
+[0m2024.08.06 18:56:27 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 18:56:29 WARN  unsupported Scala 2.12.17[0m
+Aug 06, 2024 6:56:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1014
+Aug 06, 2024 6:57:06 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Aug 06, 2024 6:57:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1024
+Aug 06, 2024 6:57:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1030
+[0m2024.08.06 18:59:09 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 19:09:40 WARN  unsupported Scala 3.3.0[0m
+[0m2024.08.06 19:09:47 WARN  unsupported Scala 3.3.0[0m
+Aug 06, 2024 7:10:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1050
+Aug 06, 2024 7:10:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1051
+[0m2024.08.06 19:10:18 WARN  unsupported Scala 3.3.0[0m
+[0m2024.08.06 19:12:54 INFO  shutting down Metals[0m
+[0m2024.08.06 19:12:54 INFO  Shut down connection with build server.[0m
+[0m2024.08.06 19:12:54 INFO  Shut down connection with build server.[0m
+[0m2024.08.06 19:12:54 INFO  Shut down connection with build server.[0m
+No more data in the client stdin, exiting...
+No more data in the client stdin, exiting...
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+[0m2024.08.06 19:13:42 INFO  Started: Metals version 0.10.8 in workspace '/home/coder/project' for client code-server 1.57.1.[0m
+[0m2024.08.06 19:13:45 INFO  time: initialize in 3.21s[0m
+[0m2024.08.06 19:13:46 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher11034966536044655040/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///tmp/bsp-launcher11034966536044655040/bsp.socket...
+The server is listening for incoming connections at local:///tmp/bsp-launcher11034966536044655040/bsp.socket...
+[0m2024.08.06 19:13:48 INFO  skipping build import with status 'Requested'[0m
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2024.08.06 19:13:48 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/coder/.cache/metals/bsp.trace.json[0m
+[0m2024.08.06 19:13:48 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+[0m2024.08.06 19:13:48 INFO  Attempting to connect to the build server...[0mOpening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher17702649720123823121/bsp.socket'...
+
+Waiting for the bsp connection to come up...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher14817680417358273011/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///tmp/bsp-launcher14817680417358273011/bsp.socket...
+The server is listening for incoming connections at local:///tmp/bsp-launcher14817680417358273011/bsp.socket...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///tmp/bsp-launcher17702649720123823121/bsp.socket...
+The server is listening for incoming connections at local:///tmp/bsp-launcher17702649720123823121/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2024.08.06 19:13:48 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/coder/.cache/metals/bsp.trace.json[0m
+[0m2024.08.06 19:13:48 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/coder/.cache/metals/bsp.trace.json[0m
+[0m2024.08.06 19:13:49 INFO  time: Connected to build server in 2.4s[0m
+[0m2024.08.06 19:13:49 INFO  Connected to Build server: Bloop v1.4.10-8-8d1cbc4f[0m
+[0m2024.08.06 19:13:49 INFO  time: Imported build in 0.41s[0m
+[0m2024.08.06 19:13:57 WARN  Could not find java sources in None. Java symbols will not be available.[0m
+[0m2024.08.06 19:13:59 INFO  time: indexed workspace in 9.61s[0m
+[0m2024.08.06 19:13:59 WARN  unsupported Scala 3.3.0[0m
+[0m2024.08.06 19:14:03 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2024.08.06 19:14:04 WARN  unsupported Scala 3.3.0[0m
+[0m2024.08.06 19:14:49 WARN  unsupported Scala 3.3.0[0m
+[0m2024.08.06 19:14:57 WARN  no build target for: /home/coder/project/src/test/HorizontalBlurSuite.scala[0m
+Aug 06, 2024 7:14:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+Aug 06, 2024 7:14:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18
+[0m2024.08.06 19:14:58 WARN  unsupported Scala 3.3.0[0m
+Aug 06, 2024 7:14:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24
+[0m2024.08.06 19:15:01 WARN  unsupported Scala 3.3.0[0m
+[0m2024.08.06 19:15:01 WARN  unsupported Scala 3.3.0[0m
+Aug 06, 2024 7:15:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30
+[0m2024.08.06 19:15:03 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 19:15:03 WARN  unsupported Scala 2.12.17[0m
+Aug 06, 2024 7:15:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 31
+[0m2024.08.06 19:15:03 WARN  unsupported Scala 2.12.17[0m
+Aug 06, 2024 7:15:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 33
+Aug 06, 2024 7:15:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 32
+[0m2024.08.06 19:15:07 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 19:15:08 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 19:15:09 WARN  unsupported Scala 2.12.17[0m
+Aug 06, 2024 7:15:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 45
+[0m2024.08.06 19:15:09 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 19:17:33 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 19:17:33 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 19:17:34 WARN  unsupported Scala 2.12.17[0m
+Aug 06, 2024 7:17:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 55
+[0m2024.08.06 19:17:35 WARN  unsupported Scala 2.12.17[0m
+[0m2024.08.06 19:17:34 WARN  unsupported Scala 2.12.17[0m
+Aug 06, 2024 7:17:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 60
+[0m2024.08.06 19:17:36 WARN  unsupported Scala 3.3.0[0m
+[0m2024.08.06 19:17:37 WARN  unsupported Scala 3.3.0[0m
+Aug 06, 2024 7:17:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 67
+[0m2024.08.06 19:17:38 WARN  unsupported Scala 3.3.0[0m
+[0m2024.08.06 19:19:37 WARN  unsupported Scala 3.3.0[0m
